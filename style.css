@@ -1,0 +1,54 @@
+body {
+    background: rgb(247, 253, 253);
+    display: flex;
+    flex: nowrap;
+}
+div {
+    background: white;
+    width: 40%;
+    height: 100%;
+    text-align: center;
+}
+img {
+    height: 6rem;
+}
+h1 {
+    color: gray;
+}
+.container-fuc {
+    width: 100%;
+}
+input {
+    width: 50%;
+    margin: 4px 0;
+    height: 40px;
+    border-radius: 5px;
+    border: 2px solid rgb(238, 234, 234);
+    background: rgb(252, 252, 252);
+}
+.line-bruk {
+    display: flex;
+    align-content: center;
+    margin: 20px 30%;
+}
+.line {
+    width: 100%;
+    height: 2px;
+    background: lightgrey;
+}
+.line-or {
+    width: 40%;
+    text-align: center;
+    line-height: 25%;
+}
+button {
+    margin: 5px;
+    color: white;
+    border-radius: 5px;
+    width: 52%;
+    background: rgb(2, 155, 260);
+}
+footer {
+    color: gray;
+    margin-top: 15px;
+}
